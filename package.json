@@ -1,0 +1,22 @@
+{
+  "name": "anti-freenitro-bot",
+  "version": "0.0.1",
+  "description": "Discord*bot  to automatically block messages with Fake nitro giveaway and similar messages.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gitC4RD/anti-freenitro-bot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gitC4RD/anti-freenitro-bot/issues"
+  },
+  "homepage": "https://github.com/gitC4RD/anti-freenitro-bot#readme",
+  "dependencies": {
+    "discord.js": "^13.3.1"
+  }
+}
